@@ -1,0 +1,71 @@
+html{
+    max-width: 800px;
+    max-height: 800px;
+}
+
+header{
+    font-size: 50px;
+}
+
+img{
+    position:static;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+    filter: grayscale(100%);
+}
+
+h1{
+    color :blue;
+}
+
+a{
+    text-decoration-line: none;
+    color:white;
+}
+
+li{
+  color:white;
+}
+
+nav {
+    float: left;
+    width: 200px;
+    height: 800px;
+    background:black;
+    padding: 20px;
+    margin-right: 25px;
+  }
+
+body{
+    background-color:oldlace;
+  }
+
+  button{
+    background-color:white ;
+  }
+ 
+ p.four {
+    border: 3px;
+    border-style: double none double none;
+    border-color: black;
+    text-align: left;
+    padding: 8px;
+    color:blue;
+  }
+
+  p.one{
+    color:white;
+  }
+
+ h3{
+    font-size: xx-large;
+    color:blue;
+  }
+
+ ul{
+  
+    list-style-position: inside;
+}
+
+
